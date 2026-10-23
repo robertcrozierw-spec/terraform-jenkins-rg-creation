@@ -20,6 +20,6 @@ resource "azurerm_resource_group" "BobsWorld" {
   location = "eastus2"
 
   tags = {
-    owner = "Superadmin"
+    owner = "JenkinsPipeline"
   }
 }
